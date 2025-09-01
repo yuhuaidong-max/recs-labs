@@ -1,0 +1,11 @@
+# Python virtual environment
+env/
+
+# IDE specific files
+.vscode/
+
+# System files
+__pycache__/
+.DS_Store
+
+# Data files (we will add the specific path later)
