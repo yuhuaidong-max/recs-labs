@@ -9,3 +9,4 @@ __pycache__/
 .DS_Store
 
 # Data files (we will add the specific path later)
+ctr-avazu/train.csv
