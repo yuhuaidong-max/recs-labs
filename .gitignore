@@ -10,3 +10,7 @@ __pycache__/
 
 # Data files (we will add the specific path later)
 ctr-avazu/train.csv
+
+# Models
+ctr-avazu/xgb_model.joblib
+ctr-avazu/ohe_columns.joblib
