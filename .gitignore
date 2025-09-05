@@ -14,3 +14,6 @@ ctr-avazu/train.csv
 # Models
 ctr-avazu/xgb_model.joblib
 ctr-avazu/ohe_columns.joblib
+
+# Project B data
+rec-serving/ml-100k/
